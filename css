@@ -1,0 +1,12 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
+body {
+    background-color: rgb(552, 236, 207);
+}
+p.subtitulo {
+     text-align: center;
+     color: gray;
+}
